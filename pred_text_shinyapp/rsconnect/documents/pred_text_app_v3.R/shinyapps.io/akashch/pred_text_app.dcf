@@ -1,0 +1,12 @@
+name: pred_text_app
+title: pred_text_app
+username:
+account: akashch
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 843407
+bundleId: 1991090
+url: https://akashch.shinyapps.io/pred_text_app/
+when: 1554551927.89962
+asMultiple: FALSE
+asStatic: FALSE
